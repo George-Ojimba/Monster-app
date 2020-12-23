@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Monster-app/static/css/main.ca52d40a.chunk.css",
-    "main.js": "/Monster-app/static/js/main.dfb55d22.chunk.js",
-    "main.js.map": "/Monster-app/static/js/main.dfb55d22.chunk.js.map",
-    "runtime-main.js": "/Monster-app/static/js/runtime-main.7a14f62c.js",
-    "runtime-main.js.map": "/Monster-app/static/js/runtime-main.7a14f62c.js.map",
-    "static/js/2.1662debb.chunk.js": "/Monster-app/static/js/2.1662debb.chunk.js",
-    "static/js/2.1662debb.chunk.js.map": "/Monster-app/static/js/2.1662debb.chunk.js.map",
-    "index.html": "/Monster-app/index.html",
-    "precache-manifest.1f6fe9972262449483a4f623a2730fb6.js": "/Monster-app/precache-manifest.1f6fe9972262449483a4f623a2730fb6.js",
-    "service-worker.js": "/Monster-app/service-worker.js",
-    "static/css/main.ca52d40a.chunk.css.map": "/Monster-app/static/css/main.ca52d40a.chunk.css.map",
-    "static/js/2.1662debb.chunk.js.LICENSE.txt": "/Monster-app/static/js/2.1662debb.chunk.js.LICENSE.txt"
+    "main.css": "/George-Ojimba/monster-appV1/static/css/main.771db56d.chunk.css",
+    "main.js": "/George-Ojimba/monster-appV1/static/js/main.a33fb8fe.chunk.js",
+    "main.js.map": "/George-Ojimba/monster-appV1/static/js/main.a33fb8fe.chunk.js.map",
+    "runtime-main.js": "/George-Ojimba/monster-appV1/static/js/runtime-main.7a382442.js",
+    "runtime-main.js.map": "/George-Ojimba/monster-appV1/static/js/runtime-main.7a382442.js.map",
+    "static/js/2.1662debb.chunk.js": "/George-Ojimba/monster-appV1/static/js/2.1662debb.chunk.js",
+    "static/js/2.1662debb.chunk.js.map": "/George-Ojimba/monster-appV1/static/js/2.1662debb.chunk.js.map",
+    "index.html": "/George-Ojimba/monster-appV1/index.html",
+    "precache-manifest.103a165f1d638226590d8003bf4a3863.js": "/George-Ojimba/monster-appV1/precache-manifest.103a165f1d638226590d8003bf4a3863.js",
+    "service-worker.js": "/George-Ojimba/monster-appV1/service-worker.js",
+    "static/css/main.771db56d.chunk.css.map": "/George-Ojimba/monster-appV1/static/css/main.771db56d.chunk.css.map",
+    "static/js/2.1662debb.chunk.js.LICENSE.txt": "/George-Ojimba/monster-appV1/static/js/2.1662debb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7a14f62c.js",
+    "static/js/runtime-main.7a382442.js",
     "static/js/2.1662debb.chunk.js",
-    "static/css/main.ca52d40a.chunk.css",
-    "static/js/main.dfb55d22.chunk.js"
+    "static/css/main.771db56d.chunk.css",
+    "static/js/main.a33fb8fe.chunk.js"
   ]
 }
